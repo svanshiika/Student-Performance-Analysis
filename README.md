@@ -45,9 +45,11 @@ A statistical analysis exploring how socioeconomic, behavioural, and resource-re
 
 ---
 
-## 🚀 How to Run the Project
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/svanshiika/Student-Performance-Analysis.git
-   cd Student-Performance-Analysis
+
+## 💡 Future Work
+
+- Implement Machine Learning models like Random Forest or SVM for improved predictions.
+- Apply deep learning techniques for better feature extraction.
+- Explore the use of time-series data to track student performance trends over time.
+
 
